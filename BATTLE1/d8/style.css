@@ -1,0 +1,48 @@
+#a {
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+#b {
+  height: 100px;
+  width: 120px;
+
+  display: flex;
+  justify-content: center;
+  background-color: rgb(169, 165, 165);
+}
+#c {
+  height: 150px;
+  width: 150px;
+
+  display: flex;
+  justify-content: center;
+  background-color: rgb(169, 165, 165);
+}
+#d {
+  height: 65px;
+  width: 120px;
+
+  display: flex;
+  justify-content: center;
+  background-color: rgb(169, 165, 165);
+}
+.parallelogram {
+  width: 150px;
+  height: 50px;
+  transform: skew(20deg);
+  background: #555;
+  margin-top: -55px;
+}
+#p1 {
+  background-color: #555;
+}
+#p2 {
+  background-color: rgb(222, 189, 19);
+}
+#p3 {
+  background-color: peru;
+}
+
